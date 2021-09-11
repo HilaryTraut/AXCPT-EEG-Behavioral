@@ -1,2 +1,6 @@
 # AXCPT-EEG-Behavioral
-Behavioral data analysis for ongoing project on multimodal measures of proactive/reactive behavior during AX-Continuous Performance Task.
+Experiment presentation scripts for behavioral, EEG, and eye-tracking enable versions of the AX-Continuous Performance Task. Images NOT provided.
+
+Please cite:
+
+TBD
